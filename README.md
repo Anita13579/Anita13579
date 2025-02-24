@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning basic tools required for a career in Data Science.
+👯 I’m looking to collaborate on simple projects with simple code to help me get familiar with GitHub and showcase some experience in it.
